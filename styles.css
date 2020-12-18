@@ -145,12 +145,12 @@ body {
   padding: 40px;
   text-align: center;
   font-size: 64px;
-  width: 300px;
+  width: 100px;
   
 }
 .container {
   display:flex;
-  justify-content: flex-start;
+  justify-content: flex-end;
   border: 3px solid black;
 }
 .box1 {
