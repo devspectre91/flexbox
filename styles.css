@@ -152,7 +152,7 @@ body {
   display:flex;
   height: 100vh;
   flex-direction: row;
-  align-items:flex-end;
+  align-items:center;
   border: 3px solid black;
 }
 .box1 {
