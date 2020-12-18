@@ -145,10 +145,11 @@ body {
   padding: 40px;
   text-align: center;
   font-size: 64px;
+  width:300px;
 }
 .container {
   display: flex;
-  flex-direction: row-reverse;
+  flex-wrap: nowrap;
   border: 3px solid black;
 }
 .box1 {
