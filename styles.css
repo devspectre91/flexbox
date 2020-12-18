@@ -150,7 +150,7 @@ body {
 }
 .container {
   display:flex;
-  justify-content: center;
+  justify-content: space-between;
   border: 3px solid black;
 }
 .box1 {
