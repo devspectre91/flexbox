@@ -145,12 +145,14 @@ body {
   padding: 40px;
   text-align: center;
   font-size: 64px;
-  width: 100px;
+
   
 }
 .container {
   display:flex;
-  justify-content: space-around;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: space-evenly;
   border: 3px solid black;
 }
 .box1 {
@@ -162,7 +164,7 @@ body {
 .box3 {
   background-color: blanchedalmond;
 }
-.box3 {
+.box4 {
   background-color: brown;
 }
 .box5 {
