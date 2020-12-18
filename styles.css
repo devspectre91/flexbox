@@ -147,7 +147,8 @@ body {
   font-size: 64px;
 }
 .container {
-  display: inline-flex;
+  display: flex;
+  flex-direction: row-reverse;
   border: 3px solid black;
 }
 .box1 {
