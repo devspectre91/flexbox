@@ -147,6 +147,8 @@ body {
   font-size: 64px;
 }
 .container {
+  display: flex;
+  border: 3px solid black;
 }
 .box1 {
   background-color: aquamarine;
